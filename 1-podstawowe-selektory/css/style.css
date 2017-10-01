@@ -1,4 +1,10 @@
 /*selektor znacznika */
+
 p {
     background-color: blue;
+}
+/*selektor id*/
+#drugi-paragraf {
+    background-color: yellow;
+    
 }
