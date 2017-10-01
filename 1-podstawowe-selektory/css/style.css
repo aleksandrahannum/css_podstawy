@@ -15,3 +15,11 @@ p {
 .akademia {
     background-color: aquamarine;
 }
+
+#selektor-potomka > p {
+    background-color: gold;
+}
+
+#drugi-potomek ~ p {
+    background-color: lime;
+}
