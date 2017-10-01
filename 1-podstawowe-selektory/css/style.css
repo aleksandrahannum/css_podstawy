@@ -3,8 +3,15 @@
 p {
     background-color: blue;
 }
+
 /*selektor id*/
 #drugi-paragraf {
     background-color: yellow;
     
+}
+
+/*selektor klasy*/
+
+.akademia {
+    background-color: aquamarine;
 }
