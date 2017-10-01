@@ -21,6 +21,8 @@
 
 #container div {
     margin: 5px;
+    border-radius: 5px;
+    
 }
 #ex {
     width: 13em;
@@ -48,4 +50,24 @@
 
 #vmin {
     width: 30vmin;
+}
+
+#in {
+    width: 2in;
+}
+
+#cm {
+    width: 5cm;
+}
+
+#mm {
+    width: 50mm;
+}
+
+#pt {
+    width: 50pt;
+}
+
+#pc {
+    width: 10pc;
 }
