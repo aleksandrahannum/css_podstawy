@@ -1,0 +1,51 @@
+#container {
+    background-color: lavenderblush;
+    padding: 20px;
+    font-size: 20px;
+}
+#container div {
+    margin: 5px;
+    background-color: red;
+}
+
+#pixele {
+    width: 400px;
+    
+    
+}
+
+#em {
+    width: 15em;
+
+}
+
+#container div {
+    margin: 5px;
+}
+#ex {
+    width: 13em;
+}
+
+#rem {
+    width: 10rem;
+}
+
+#procenty {
+    width: 20%;
+}
+
+#vw {
+    width: 30vw;
+}
+
+#vh {
+    width: 30vh;
+}
+
+#vmax {
+    width: 30vmax;
+}
+
+#vmin {
+    width: 30vmin;
+}
